@@ -197,4 +197,4 @@ This repository serves as the official landing page for Euro Truck Simulator 2 N
 **Get the most recent version of Euro Truck Simulator 2 No Speed Limit Mod today!**
 
 ---
-**Last updated:** 2026-11-12 09:07:26 UTC
+**Last updated:** 2026-11-12 17:51:02 UTC
